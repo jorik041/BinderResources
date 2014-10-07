@@ -1,0 +1,9 @@
+C:\Users\mh4x0f\Desktop\BinderResources\BinderResources\bin\Debug\BinderResources.exe.config
+C:\Users\mh4x0f\Desktop\BinderResources\BinderResources\bin\Debug\BinderResources.exe
+C:\Users\mh4x0f\Desktop\BinderResources\BinderResources\bin\Debug\BinderResources.pdb
+C:\Users\mh4x0f\Desktop\BinderResources\BinderResources\obj\Debug\BinderResources.csprojResolveAssemblyReference.cache
+C:\Users\mh4x0f\Desktop\BinderResources\BinderResources\obj\Debug\BinderResources.Form1.resources
+C:\Users\mh4x0f\Desktop\BinderResources\BinderResources\obj\Debug\BinderResources.Properties.Resources.resources
+C:\Users\mh4x0f\Desktop\BinderResources\BinderResources\obj\Debug\BinderResources.csproj.GenerateResource.Cache
+C:\Users\mh4x0f\Desktop\BinderResources\BinderResources\obj\Debug\BinderResources.exe
+C:\Users\mh4x0f\Desktop\BinderResources\BinderResources\obj\Debug\BinderResources.pdb
